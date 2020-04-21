@@ -1,3 +1,7 @@
-# Personal Practice Place for C++ Crash Course
+# Bili's Coding Dojo
 
-This is my personal practice place for the book [C++ Crash Course](https://ccc.codes).
+- Arena
+- Book
+    - 2019 Josh Lospinoso [C++ Crash Course](book/ccc)
+- Course
+- Misc

@@ -1,4 +1,3 @@
-// 3-4. Reimplement Listing 3-11 using no explicit types. (Hint: use auto.)
 #include <cstdio>
 
 int main() {
@@ -8,7 +7,7 @@ int main() {
   printf("Reference: %d\n", original_ref);
 
   auto new_value { 200 };
-  auto original_ref { new_value };
+  original_ref = new_value;
   printf("Original:  %d\n", original);
   printf("New Value: %d\n", new_value);
   printf("Reference: %d\n", original_ref);

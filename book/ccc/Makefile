@@ -7,7 +7,7 @@ BINS = $(SRCS:.cpp=.bin)
 
 all: $(BINS)
 
-run:
+run: all
 	$(foreach bin,$(BINS),./$(bin);)
 
 clean:

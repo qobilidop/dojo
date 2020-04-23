@@ -1,6 +1,6 @@
--- 1 skip
+-- 1 done
 
--- 2 skip
+-- 2 done
 
 -- 3
 n = a `div` length xs

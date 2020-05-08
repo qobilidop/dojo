@@ -1,4 +1,7 @@
 {-# LANGUAGE FlexibleContexts #-}
+
+module PiH.Chapter05 where
+
 import Data.Char
 
 -- 1

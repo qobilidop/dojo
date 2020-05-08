@@ -1,3 +1,5 @@
+module PiH.Chapter06 where
+
 import Prelude hiding ((^), and, concat, replicate, (!!), elem, sum, take, last)
 
 -- 1

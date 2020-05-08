@@ -1,3 +1,5 @@
+module PiH.Chapter02 where
+
 -- 1 done
 
 -- 2 done

@@ -1,13 +1,15 @@
+module PiH.Chapter03 where
+
 -- 1
-['a', 'b', 'c'] :: [Char]
+-- ['a', 'b', 'c'] :: [Char]
 
-('a', 'b', 'c') :: (Char, Char, Char)
+-- ('a', 'b', 'c') :: (Char, Char, Char)
 
-[(False, '1'), (True, '1')] :: [(Bool, Char)]
+-- [(False, '1'), (True, '1')] :: [(Bool, Char)]
 
-([False, True], ['0', '1']) :: ([Bool], [Char])
+-- ([False, True], ['0', '1']) :: ([Bool], [Char])
 
-[tail, init, reverse] :: [[a] -> [a]]
+-- [tail, init, reverse] :: [[a] -> [a]]
 
 -- 2
 bools :: [Bool]
@@ -38,7 +40,7 @@ pair x y = (x, y)
 double :: Num a => a -> a
 double x = x * 2
 
-palindrome :: [a] -> Bool
+palindrome :: Eq a => [a] -> Bool
 palindrome xs = reverse xs == xs
 
 twice :: (a -> a) -> a -> a

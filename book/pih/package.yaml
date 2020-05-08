@@ -1,0 +1,15 @@
+name: PiH
+
+dependencies:
+  - base
+
+library:
+  source-dirs: src
+
+tests:
+  test:
+    main: Spec.hs
+    source-dirs: test
+    dependencies:
+      - PiH
+      - hspec

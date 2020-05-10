@@ -1,53 +1,53 @@
 module PiH.Chapter04 where
 
--- 1
+-- Exercise 1
 halve :: [a] -> ([a], [a])
 halve xs = splitAt (length xs `div` 2) xs
 
--- 2
-third_a :: [a] -> a
-third_a xs = head (tail (tail xs))
+-- Exercise 2
+thirdA :: [a] -> a
+thirdA xs = head (tail (tail xs))
 
-third_b :: [a] -> a
-third_b xs = xs !! 2
+thirdB :: [a] -> a
+thirdB xs = xs !! 2
 
-third_c :: [a] -> a
-third_c (_:_:x:_) = x
+thirdC :: [a] -> a
+thirdC (_:_:x:_) = x
 
--- 3
-safetail_a :: [a] -> [a]
-safetail_a xs = if null xs then [] else tail xs
+-- Exercise 3
+safetailA :: Show a => [a] -> [a]
+safetailA xs = if (null xs) then [] else tail xs
 
-safetail_b :: [a] -> [a]
-safetail_b xs | null xs   = []
-              | otherwise = tail xs
+safetailB :: [a] -> [a]
+safetailB xs | null xs   = []
+             | otherwise = tail xs
 
-safetail_c :: [a] -> [a]
-safetail_c [] = []
-safetail_c (_:xs) = xs
+safetailC :: [a] -> [a]
+safetailC [] = []
+safetailC (_:xs) = xs
 
--- 4
-(||) :: Bool -> Bool -> Bool
-True || True   = True
-True || False  = True
-False || True  = True
-False || False = False
+-- Exercise 4
+or1 :: Bool -> Bool -> Bool
+True `or1` True   = True
+True `or1` False  = True
+False `or1` True  = True
+False `or1` False = False
 
-(||.) :: Bool -> Bool -> Bool
-False ||. False = False
-_     ||. _     = True
+or2 :: Bool -> Bool -> Bool
+False `or2` False = False
+_     `or2` _     = True
 
-(||..) :: Bool -> Bool -> Bool
-True ||.. _  = True
-False ||.. b = b
+or3 :: Bool -> Bool -> Bool
+True `or3` _  = True
+False `or3` b = b
 
-(||...) :: Bool -> Bool -> Bool
-b ||... c | b == c    = b
+or4 :: Bool -> Bool -> Bool
+b `or4` c | b == c    = b
           | otherwise = True
 
--- 5
-(&&) :: Bool -> Bool -> Bool
-a && b =
+-- Exercise 5
+and1 :: Bool -> Bool -> Bool
+a `and1` b =
     if a == True then
         if b == True then
             True
@@ -56,19 +56,19 @@ a && b =
     else
         False
 
--- 6
-(&&.) :: Bool -> Bool -> Bool
-a &&. b =
+-- Exercise 6
+and2 :: Bool -> Bool -> Bool
+a `and2` b =
     if a == True then
         b
     else
         False
 
--- 7
+-- Exercise 7
 mult :: Int -> Int -> Int -> Int
 mult = \x y z -> x*y*z
 
--- 8
+-- Exercise 8
 luhnDouble :: Int -> Int
 luhnDouble x | 2*x < 9   = 2*x
              | otherwise = 2*x - 9

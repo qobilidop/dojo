@@ -1,17 +1,22 @@
 module PiH.Chapter03 where
 
--- 1
--- ['a', 'b', 'c'] :: [Char]
+-- Exercise 1
+chars :: [Char]
+chars = ['a', 'b', 'c']
 
--- ('a', 'b', 'c') :: (Char, Char, Char)
+char3 :: (Char, Char, Char)
+char3 = ('a', 'b', 'c')
 
--- [(False, '1'), (True, '1')] :: [(Bool, Char)]
+boolchars :: [(Bool, Char)]
+boolchars = [(False, '1'), (True, '1')]
 
--- ([False, True], ['0', '1']) :: ([Bool], [Char])
+boolschars :: ([Bool], [Char])
+boolschars = ([False, True], ['0', '1'])
 
--- [tail, init, reverse] :: [[a] -> [a]]
+listFuncs :: [[a] -> [a]]
+listFuncs = [tail, init, reverse]
 
--- 2
+-- Exercise 2
 bools :: [Bool]
 bools = [True, False]
 
@@ -27,7 +32,7 @@ copy x = (x, x)
 apply :: (a -> b) -> a -> b
 apply f x = f x
 
--- 3
+-- Exercise 3
 second :: [a] -> a
 second xs = head (tail xs)
 
@@ -46,6 +51,8 @@ palindrome xs = reverse xs == xs
 twice :: (a -> a) -> a -> a
 twice f x = f (f x)
 
--- 4 done
+-- Exercise 4
+-- skip
 
--- 5 todo
+-- Exercise 5
+-- skip

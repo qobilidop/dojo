@@ -1,28 +1,6 @@
 module PiH.Chapter01 where
 
-import Prelude hiding (sum, product)
-
--- Example 1
-sum :: Num a => [a] -> a
-sum []     = 0
-sum (n:ns) = n + sum ns
-
--- Example 2
-qsort :: Ord a => [a] -> [a]
-qsort [] = []
-qsort (x:xs) =
-    qsort smaller ++ [x] ++ qsort larger
-  where
-    smaller = [a | a <- xs, a <= x]
-    larger  = [b | b <- xs, b > x]
-
--- Example 3
-seqn :: Monad m => [m a] -> m [a]
-seqn []         = return []
-seqn (act:acts) = do
-    x <- act
-    xs <- seqn acts
-    return (x:xs)
+import Prelude hiding (product)
 
 -- Exercise 1
 {-

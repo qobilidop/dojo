@@ -13,3 +13,4 @@ tests:
     dependencies:
       - PiH
       - hspec
+      - deepseq

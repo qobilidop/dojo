@@ -1,6 +1,7 @@
 module PiH.Chapter07Spec (spec) where
 
 import Test.Hspec
+import Control.DeepSeq
 import Control.Exception (evaluate)
 import qualified PiH.Chapter07 as My
 
@@ -44,7 +45,7 @@ spec = do
 
   describe "Exercise 8" $ do
     it "passes" $ do
-      evaluate (My.transmitFaulty "abc") `shouldThrow` errorCall "parity error"
+      (evaluate . force) (My.transmitFaulty "abc") `shouldThrow` errorCall "parity error"
 
   describe "Exercise 9" $ do
     it "passes" $ do

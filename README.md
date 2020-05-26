@@ -1,15 +1,23 @@
 # Bili's Coding Dojo
 
-## Book
+## Status
+
+Currently on:
+- [UCSD CSE230 Programming Languages](course/2020-ucsd-cse230)
+- [Programming in Haskell](book/pih)
+
+Up next:
+- [Crafting Interpreters](book/craftinginterpreters)
+
+## Content
+
+### Book
+- [2020 | Crafting Interpreters | Robert Nystrom](book/craftinginterpreters)
 - [2019 | C++ Crash Course | Josh Lospinoso](book/ccc)
 - [2016 | Programming in Haskell | Graham Hutton](book/pih)
 
-## Course
-- [2020 | GAMES 101 Introduction to Computer Graphics | 闫令琪](course/2020-games-101)
-- [2020 | MIT 6.824 Distributed Systems | Robert Morris](course/2020-mit-6.824)
+### Course
 - [2020 | UCSD CSE230 Programming Languages | Ranjit Jhala](course/2020-ucsd-cse230)
 
-## Playground
+### Playground
 - [exercism](playground/exercism)
-
-## Misc

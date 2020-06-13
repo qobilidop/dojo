@@ -3,7 +3,6 @@
 ## Status
 
 Currently on:
-- [UCSD CSE230 Programming Languages](course/2020-ucsd-cse230)
 - [Programming in Haskell](book/pih)
 
 Up next:

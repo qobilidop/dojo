@@ -2,7 +2,7 @@
 
 ## Status
 
-Currently on:
+In progress:
 - [Programming in Haskell](book/pih)
 
 Up next:
@@ -19,4 +19,5 @@ Up next:
 - [2020 | UCSD CSE230 Programming Languages | Ranjit Jhala](course/2020-ucsd-cse230)
 
 ### Playground
-- [exercism](playground/exercism)
+- [Exercism](playground/exercism)
+- [Google Codelabs](playground/googlecodelabs)

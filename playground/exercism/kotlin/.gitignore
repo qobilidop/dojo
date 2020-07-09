@@ -1,0 +1,11 @@
+# https://github.com/exercism/kotlin/blob/master/.gitignore
+*.swp
+.DS_Store
+bin/configlet
+bin/configlet.exe
+CHECKLIST
+build
+.gradle
+.idea
+*.iml
+out/

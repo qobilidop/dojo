@@ -3,10 +3,6 @@
 ## Status
 
 In progress:
-- [Programming in Haskell](book/pih)
-- [Android Kotlin Fundamentals](tutorial/android-kotlin-fundamentals)
-
-Up next:
 - [Crafting Interpreters](book/craftinginterpreters)
 
 ## Index
@@ -19,8 +15,11 @@ Up next:
 ### Course
 - [2020 | UCSD CSE230 Programming Languages | Ranjit Jhala](course/2020-ucsd-cse230)
 
-### Tutorial
-- [Android Kotlin Fundamentals](tutorial/android-kotlin-fundamentals)
+### Lab
 
-### Playground
-- [Exercism](playground/exercism)
+### Play
+- [Exercism](play/exercism)
+
+### Sub
+- [Android](https://github.com/qobilidop/dojo-android)
+- [Flutter](https://github.com/qobilidop/dojo-flutter)

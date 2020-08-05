@@ -13,3 +13,9 @@
 [submodule "course/2020-ucsd-cse230/final"]
 	path = course/2020-ucsd-cse230/final
 	url = git@github.com:qobilidop/2020-ucsd-cse230-final.git
+[submodule "sub/android"]
+	path = sub/android
+	url = git@github.com:qobilidop/dojo-android.git
+[submodule "sub/flutter"]
+	path = sub/flutter
+	url = git@github.com:qobilidop/dojo-flutter.git

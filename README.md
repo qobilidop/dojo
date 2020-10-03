@@ -3,7 +3,7 @@
 ## Status
 
 In progress:
-- [Crafting Interpreters](book/craftinginterpreters)
+- [2019 | C++ Crash Course | Josh Lospinoso](book/ccc)
 
 ## Index
 

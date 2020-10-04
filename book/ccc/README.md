@@ -3,7 +3,7 @@
 ## Progress
 
 - PART I: THE C++ CORE LANGUAGE
-    - [ ] Chapter 1: Up and Running
+    - [x] Chapter 1: Up and Running
     - [ ] Chapter 2: Types
     - [ ] Chapter 3: Reference Types
     - [ ] Chapter 4: The Object Life Cycle

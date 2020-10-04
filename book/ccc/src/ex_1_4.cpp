@@ -1,11 +1,11 @@
 #include <cstdio>
 
-int sum(int a, int b) {
-  return a + b;
+int sum(int x, int y) {
+  return x + y;
 }
 
 int main() {
-  int a = 2, b = 3;
+  int x = 2, y = 3;
   printf("The sum of %d and %d is %d.\n",
-         a, b, sum(a, b));
+         x, y, sum(x, y));
 }

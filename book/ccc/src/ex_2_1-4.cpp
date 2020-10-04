@@ -1,6 +1,6 @@
 #include <cstdio>
 
-enum Operation {
+enum class Operation {
   Add,
   Subtract,
   Multiply,
@@ -38,12 +38,15 @@ struct Calculator {
 };
 
 int main() {
-  Calculator calc{ Operation::Add };
-  printf("1 + 2 = %d\n", calc.calculate(1, 2));
-  calc.op = Operation::Subtract;
-  printf("3 - 2 = %d\n", calc.calculate(3, 2));
-  calc.op = Operation::Multiply;
-  printf("2 * 3 = %d\n", calc.calculate(2, 3));
-  calc.op = Operation::Divide;
-  printf("6 / 3 = %d\n", calc.calculate(6, 3));
+  Calculator calc1{ Operation::Add };
+  printf("1 + 2 = %d\n", calc1.calculate(1, 2));
+
+  Calculator calc2 = { Operation::Subtract };
+  printf("3 - 2 = %d\n", calc2.calculate(3, 2));
+
+  Calculator calc3(Operation::Multiply);
+  printf("2 * 3 = %d\n", calc3.calculate(2, 3));
+
+  Calculator calc4 = Calculator(Operation::Divide);
+  printf("6 / 3 = %d\n", calc4.calculate(6, 3));
 }

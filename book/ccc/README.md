@@ -4,7 +4,7 @@
 
 - PART I: THE C++ CORE LANGUAGE
     - [x] Chapter 1: Up and Running
-    - [ ] Chapter 2: Types
+    - [x] Chapter 2: Types
     - [ ] Chapter 3: Reference Types
     - [ ] Chapter 4: The Object Life Cycle
     - [ ] Chapter 5: Runtime Polymorphism

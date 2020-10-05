@@ -1,18 +1,23 @@
 #include <cstdio>
-#include <iterator>
+#include <cstring>
 
-char read_from(char* chars, size_t l, size_t i) {
-  if (i >= l) {
+bool validate_index(const char* chars, size_t i) {
+  if (i >= std::strlen(chars)) {
     printf("Index out of bound.\n");
-    return 0;
+    return false;
   }
-  char c = chars[i];
-  return c;
+  return true;
 }
 
-void write_to(char* chars, size_t l, size_t i, char c) {
-  if (i >= l) {
-    printf("Index out of bound.\n");
+char read_from(const char* chars, size_t i) {
+  if (!validate_index(chars, i)) {
+    return 0;
+  }
+  return chars[i];
+}
+
+void write_to(char* chars, size_t i, char c) {
+  if (!validate_index(chars, i)) {
     return;
   }
   chars[i] = c;
@@ -22,16 +27,14 @@ int main() {
   char lower[]{ "abc?e" };
   char upper[]{ "ABC?E" };
   char* upper_ptr{ upper };
-  size_t l_lower{ std::size(lower) };
-  size_t l_upper{ std::size(upper) };
 
-  write_to(lower, l_lower, 3, 'd');
-  write_to(upper_ptr, l_upper, 3, 'D');
+  write_to(lower, 3, 'd');
+  write_to(upper_ptr, 3, 'D');
 
-  read_from(lower, l_lower, 3);
-  read_from(upper_ptr, l_upper, 3);
+  read_from(lower, 3);
+  read_from(upper_ptr, 3);
 
   printf("lower: %s\nupper: %s\n", lower, upper);
 
-  write_to(lower, l_lower, 7, 'g');
+  write_to(lower, 7, 'g');
 }

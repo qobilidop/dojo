@@ -7,7 +7,7 @@
     - [x] Chapter 2: Types
     - [x] Chapter 3: Reference Types
     - [x] Chapter 4: The Object Life Cycle
-    - [ ] Chapter 5: Runtime Polymorphism
+    - [x] Chapter 5: Runtime Polymorphism
     - [ ] Chapter 6: Compile-Time Polymorphism
     - [ ] Chapter 7: Expressions
     - [ ] Chapter 8: Statements

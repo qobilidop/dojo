@@ -16,6 +16,3 @@
 [submodule "sub/android"]
 	path = sub/android
 	url = git@github.com:qobilidop/dojo-android.git
-[submodule "sub/flutter"]
-	path = sub/flutter
-	url = git@github.com:qobilidop/dojo-flutter.git

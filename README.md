@@ -19,7 +19,7 @@ In progress:
 
 ### Play
 - [Exercism](play/exercism)
+- [HackerRank](play/hackerrank)
 
 ### Sub
 - [Android](https://github.com/qobilidop/dojo-android)
-- [Flutter](https://github.com/qobilidop/dojo-flutter)

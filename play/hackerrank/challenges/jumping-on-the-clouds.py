@@ -17,7 +17,7 @@ def solve(c):
 
 if __name__ == '__main__':
     n = int(input())
-    c = list(map(int, input().rstrip().split()))
+    c = list(map(int, input().strip().split()))
 
     result = solve(c)
 

@@ -15,8 +15,8 @@ clean:
 
 # Compiling Configurations
 
-CXX = g++
-CXXFLAGS = -std=c++17 -Wall
+CXX = g++-10
+CXXFLAGS = -std=c++20 -Wall
 
 %.bin: %.cpp
 	$(CXX) $(CXXFLAGS) -o $@ $<

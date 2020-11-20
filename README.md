@@ -3,6 +3,8 @@
 ## Status
 
 In progress:
+- [2020 | UCSD CSE240A Principles of Computer Architecture | Hadi Esmaeilzadeh](course/2020-ucsd-cse240a)
+- [2020 | UCSD CSE260 Parallel Computation | Bryan Chin](course/2020-ucsd-cse260)
 - [2019 | C++ Crash Course | Josh Lospinoso](book/ccc)
 
 ## Index
@@ -14,8 +16,8 @@ In progress:
 
 ### Course
 - [2020 | UCSD CSE230 Programming Languages | Ranjit Jhala](course/2020-ucsd-cse230)
-
-### Lab
+- [2020 | UCSD CSE240A Principles of Computer Architecture | Hadi Esmaeilzadeh](course/2020-ucsd-cse240a)
+- [2020 | UCSD CSE260 Parallel Computation | Bryan Chin](course/2020-ucsd-cse260)
 
 ### Play
 - [Exercism](play/exercism)

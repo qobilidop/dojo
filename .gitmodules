@@ -20,5 +20,5 @@
 	path = course/2020-ucsd-cse260/pa2
 	url = git@github.com:qobilidop/2020-ucsd-cse260-pa2.git
 [submodule "sub/android"]
-	path = sub/android
+	path = topic/android
 	url = git@github.com:qobilidop/dojo-android.git

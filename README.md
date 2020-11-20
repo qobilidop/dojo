@@ -19,9 +19,9 @@ In progress:
 - [2020 | UCSD CSE240A Principles of Computer Architecture | Hadi Esmaeilzadeh](course/2020-ucsd-cse240a)
 - [2020 | UCSD CSE260 Parallel Computation | Bryan Chin](course/2020-ucsd-cse260)
 
-### Play
-- [Exercism](play/exercism)
-- [HackerRank](play/hackerrank)
+### Playground
+- [Exercism](playground/exercism)
+- [HackerRank](playground/hackerrank)
 
-### Sub
+### Topic
 - [Android](https://github.com/qobilidop/dojo-android)

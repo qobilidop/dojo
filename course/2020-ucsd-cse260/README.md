@@ -4,5 +4,6 @@
 
 ## My Work
 
-- [Assignment 1](https://github.com/qobilidop/2020-ucsd-cse260-pa1)
-- [Assignment 2](https://github.com/qobilidop/2020-ucsd-cse260-pa2)
+- [Assignment 1: GEMM (Goto method and SIMD)](https://github.com/qobilidop/2020-ucsd-cse260-pa1)
+- [Assignment 2: GEMM (CUDA)](https://github.com/qobilidop/2020-ucsd-cse260-pa2)
+- [Assignment 3: Aliev-Panfilov Cardiac Simulation (MPI)](https://github.com/qobilidop/2020-ucsd-cse260-pa3)

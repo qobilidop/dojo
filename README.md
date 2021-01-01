@@ -3,6 +3,7 @@
 ## Status
 
 Current focus:
+- [2020 | Crafting Interpreters | Robert Nystrom](book/craftinginterpreters)
 - [2019 | C++ Crash Course | Josh Lospinoso](book/ccc)
 
 ## Catalog

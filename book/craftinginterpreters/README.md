@@ -9,7 +9,7 @@
 - I. WELCOME
     - [x] 1. Introduction
     - [x] 2. A Map of the Territory
-    - [ ] 3. The Lox Language
+    - [x] 3. The Lox Language
 - II. A TREE-WALK INTERPRETER
     - [ ] 4. Scanning
     - [ ] 5. Representing Code

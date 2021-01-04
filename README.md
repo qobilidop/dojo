@@ -4,7 +4,6 @@
 
 Current focus:
 - [2020 | Crafting Interpreters | Robert Nystrom](book/craftinginterpreters)
-- [2019 | C++ Crash Course | Josh Lospinoso](book/ccc)
 
 ## Catalog
 
@@ -19,8 +18,8 @@ Current focus:
 - [2020 | UCSD CSE260 Parallel Computation | Bryan Chin](course/2020-ucsd-cse260)
 
 ### Playground
-- [Exercism](playground/exercism)
-- [LeetCode](playground/leetcode)
+- [Exercism](playground/exercism) for practicing basic language using
+- [LeetCode](playground/leetcode) for practicing algorithm problem solving
 
 ### Topic
 - [Android](https://github.com/qobilidop/dojo-android)

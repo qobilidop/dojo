@@ -11,7 +11,7 @@
     - [x] 2. A Map of the Territory
     - [x] 3. The Lox Language
 - II. A TREE-WALK INTERPRETER
-    - [ ] 4. Scanning
+    - [x] 4. Scanning
     - [ ] 5. Representing Code
     - [ ] 6. Parsing Expressions
     - [ ] 7. Evaluating Expressions

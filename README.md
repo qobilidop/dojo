@@ -23,8 +23,8 @@ Current focus:
 - [2019 | UCSD CSE131 Compiler Construction | Joe Gibbs Politz](course/2019-ucsd-cse131)
 
 ### Playground
-- [Exercism](playground/exercism) for practicing basic language using
-- [LeetCode](playground/leetcode) for practicing algorithm problem solving
+- [Exercism](playground/exercism) for basic language practice
+- [LeetCode](playground/leetcode) for coding interview prep
 
 ### Topic
 - [Android](https://github.com/qobilidop/dojo-android)

@@ -3,7 +3,9 @@
 ## Status
 
 Current focus:
-- [2020 | Crafting Interpreters | Robert Nystrom](book/craftinginterpreters)
+- [2019 | UCSD CSE131 Compiler Construction | Joe Gibbs Politz](course/2019-ucsd-cse131)
+- [2021 | UCSD CSE231 Advanced Compiler Design | Joe Gibbs Politz](course/2021-ucsd-cse231)
+- [2021 | UCSD CSE291 Program Synthesis | Nadia Polikarpova](course/2021-ucsd-cse291_nadia)
 
 ## Catalog
 
@@ -13,9 +15,12 @@ Current focus:
 - [2016 | Programming in Haskell | Graham Hutton](book/pih)
 
 ### Course
+- [2021 | UCSD CSE231 Advanced Compiler Design | Joe Gibbs Politz](course/2021-ucsd-cse231)
+- [2021 | UCSD CSE291 Program Synthesis | Nadia Polikarpova](course/2021-ucsd-cse291_nadia)
 - [2020 | UCSD CSE230 Programming Languages | Ranjit Jhala](course/2020-ucsd-cse230)
 - [2020 | UCSD CSE240A Principles of Computer Architecture | Hadi Esmaeilzadeh](course/2020-ucsd-cse240a)
 - [2020 | UCSD CSE260 Parallel Computation | Bryan Chin](course/2020-ucsd-cse260)
+- [2019 | UCSD CSE131 Compiler Construction | Joe Gibbs Politz](course/2019-ucsd-cse131)
 
 ### Playground
 - [Exercism](playground/exercism) for practicing basic language using

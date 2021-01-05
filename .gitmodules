@@ -1,3 +1,6 @@
+[submodule "playground/exercism/c/vendor/unity"]
+	path = playground/exercism/c/vendor/unity
+	url = https://github.com/ThrowTheSwitch/Unity.git
 [submodule "playground/exercism/cpp/test/catch2"]
 	path = playground/exercism/cpp/test/catch2
 	url = https://github.com/catchorg/Catch2.git

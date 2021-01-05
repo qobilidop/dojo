@@ -1,2 +1,31 @@
 # 2019 | UCSD CSE131 Compiler Construction | Joe Gibbs Politz
 - [Course Website](https://ucsd-cse131-f19.github.io/)
+
+## Progress
+- [x] [Lecture 1](https://podcast.ucsd.edu/watch/fa19/cse131_a00/1)
+- [ ] Lecture 2
+- [ ] Lecture 3
+- [ ] Lecture 4
+- [ ] Lecture 5
+- [ ] Lecture 6
+- [ ] Lecture 7
+- [ ] Lecture 8
+- [ ] Lecture 9
+- [ ] Lecture 10
+- [ ] Lecture 11
+- [ ] Lecture 12
+- [ ] Lecture 13
+- [ ] Lecture 14
+- [ ] Lecture 15
+- [ ] Lecture 16
+- [ ] Lecture 17
+- [ ] Lecture 18
+- [ ] Lecture 19
+- [ ] Lecture 20
+- [ ] PA1
+- [ ] PA2
+- [ ] PA3
+- [ ] PA4
+- [ ] PA5
+- [ ] PA6
+- [ ] PA7

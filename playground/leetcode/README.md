@@ -1,5 +1,8 @@
 # LeetCode
 
+- Weekly Contest 224
+    - [1725. Number Of Rectangles That Can Form The Largest Square](solution/1725.py)
+    - [1726. Tuple with Same Product](solution/1726.py)
 - Weekly Contest 223
     - [1720. Decode XORed Array](solution/1720.py)
     - [1721. Swapping Nodes in a Linked List](solution/1721.py)

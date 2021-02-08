@@ -10,6 +10,7 @@ Current focus:
 ## Catalog
 
 ### Book
+- [xxxx | Real World OCaml | Yaron Minsky, Anil Madhavapeddy, Jason Hickey](book/realworldocaml)
 - [2020 | Crafting Interpreters | Robert Nystrom](book/craftinginterpreters)
 - [2019 | C++ Crash Course | Josh Lospinoso](book/ccc)
 - [2016 | Programming in Haskell | Graham Hutton](book/pih)

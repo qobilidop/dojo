@@ -3,14 +3,14 @@
 ## Status
 
 Current focus:
-- [2021 | UCSD CSE291 Program Synthesis | Nadia Polikarpova](course/2021-ucsd-cse291_nadia)
-- [xxxx | Real World OCaml | Yaron Minsky, Anil Madhavapeddy, Jason Hickey](book/realworldocaml)
+- [2020 | Effective C | Robert Seacord](book/effective-c)
 
 ## Catalog
 
 ### Book
 - [xxxx | Real World OCaml | Yaron Minsky, Anil Madhavapeddy, Jason Hickey](book/realworldocaml)
 - [2020 | Crafting Interpreters | Robert Nystrom](book/craftinginterpreters)
+- [2020 | Effective C | Robert Seacord](book/effective-c)
 - [2019 | C++ Crash Course | Josh Lospinoso](book/ccc)
 - [2016 | Programming in Haskell | Graham Hutton](book/pih)
 

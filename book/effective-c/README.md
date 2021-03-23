@@ -2,7 +2,7 @@
 
 ## Progress
 
-- [] Chapter 1: Getting Started with C
+- [x] Chapter 1: Getting Started with C
 - [] Chapter 2: Objects, Functions, and Types
 - [] Chapter 3: Arithmetic Types
 - [] Chapter 4: Expressions and Operators

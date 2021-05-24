@@ -1,11 +1,13 @@
 # The Rust Programming Language
+Just me typing along while reading the book.
+
 - [Website](https://doc.rust-lang.org/book/)
 - [GitHub](https://github.com/rust-lang/book)
 
 ## Progress
 
 - [x] 1. Getting Started
-- [ ] 2. Programming a Guessing Game
+- [x] 2. Programming a Guessing Game
 - [ ] 3. Common Programming Concepts
 - [ ] 4. Understanding Ownership
 - [ ] 5. Using Structs to Structure Related Data

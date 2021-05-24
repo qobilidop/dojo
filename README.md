@@ -3,13 +3,13 @@
 ## In Progress
 
 - [2021 | UCSD CSE291 Topics in Embedded Systems & The Internet of Things | Pat Pannuto](course/2021-ucsd-cse291_pat)
-- [2020 | MIT 6.S081 Operating System Engineering | Frans Kaashoek & Robert Morris](course/2020-mit-6s081)
-- [2020 | Effective C | Robert Seacord](book/effective-c)
+- [xxxx | The Rust Programming Language | Steve Klabnik, Carol Nichols](book/rust-book)
 
 ## Catalog
 
 ### Book
 - [xxxx | Real World OCaml | Yaron Minsky, Anil Madhavapeddy, Jason Hickey](book/realworldocaml)
+- [xxxx | The Rust Programming Language | Steve Klabnik, Carol Nichols](book/rust-book)
 - [2020 | Crafting Interpreters | Robert Nystrom](book/craftinginterpreters)
 - [2020 | Effective C | Robert Seacord](book/effective-c)
 - [2019 | C++ Crash Course | Josh Lospinoso](book/ccc)
@@ -17,7 +17,7 @@
 
 ### Course
 - [2021 | UCSD CSE291 Program Synthesis | Nadia Polikarpova](course/2021-ucsd-cse291_nadia)
-- [2021 | UCSD CSE291 Topics in Embedded Systems & The Internet of Things | Pat Pannuto](course/2021-ucsd-cse291_pat)[2021 | UCSD CSE291 Topics in Embedded Systems & The Internet of Things | Pat Pannuto](course/2021-ucsd-cse291_pat)
+- [2021 | UCSD CSE291 Topics in Embedded Systems & The Internet of Things | Pat Pannuto](course/2021-ucsd-cse291_pat)
 - [2020 | MIT 6.S081 Operating System Engineering | Frans Kaashoek & Robert Morris](course/2020-mit-6s081)
 - [2020 | UCSD CSE230 Programming Languages | Ranjit Jhala](course/2020-ucsd-cse230)
 - [2020 | UCSD CSE240A Principles of Computer Architecture | Hadi Esmaeilzadeh](course/2020-ucsd-cse240a)

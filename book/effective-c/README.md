@@ -5,7 +5,7 @@
 - [x] Chapter 1: Getting Started with C
 - [x] Chapter 2: Objects, Functions, and Types
 - [x] Chapter 3: Arithmetic Types
-- [ ] Chapter 4: Expressions and Operators
+- [x] Chapter 4: Expressions and Operators
 - [ ] Chapter 5: Control Flow
 - [ ] Chapter 6: Dynamically Allocated Memory
 - [ ] Chapter 7: Charracters and Strings

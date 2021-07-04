@@ -5,9 +5,13 @@ Starting from 2021, I decided to routinely take LeetCode Weekly Contest as a way
 Categories:
 - solved during contest
 - **unsolved during contest**
-- *contest not attended*
 
 Progress:
+- Weekly Contest 248
+    - [1920. Build Array from Permutation](solution/1920.py)
+    - [1921. Eliminate Maximum Number of Monsters](solution/1921.py)
+    - [1922. Count Good Numbers](solution/1922.py)
+    - **1923. Longest Common Subpath**
 - Weekly Contest 224
     - [1725. Number Of Rectangles That Can Form The Largest Square](solution/1725.py)
     - [1726. Tuple with Same Product](solution/1726.py)
